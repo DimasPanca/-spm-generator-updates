@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "releasedAt": "2026-08-25",
-  "notes": "Rilis awal - SPM, Rekap Honor, Struk Fraza, Invoice A2 Mandiri, Surat Lampiran, Instrumen BOSP",
+  "notes": "Perbaikan: aplikasi error saat membuka fitur (binary database tidak termuat)",
   "requiresNpmInstall": false
 }
