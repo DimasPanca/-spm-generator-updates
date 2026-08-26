@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "releasedAt": "2026-08-25",
-  "notes": "Perbaikan: aplikasi error saat membuka fitur (binary database tidak termuat)",
+  "version": "1.0.2",
+  "releasedAt": "2026-08-26",
+  "notes": "Tambah fitur SK Tim BOSP, Data Siswa, dan Daftar Siswa Miskin",
   "requiresNpmInstall": false
 }
