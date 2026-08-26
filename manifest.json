@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "releasedAt": "2026-08-26",
-  "notes": "Tambah fitur Stock Opname (XLSX per kategori) dan Cash Opname (Berita Acara Pemeriksaan Kas)",
+  "notes": "Perbaikan Cash Opname: logo per sekolah, hapus stempel/TTD template, kolom titik dua sejajar, underline hanya di bawah huruf",
   "requiresNpmInstall": false
 }
