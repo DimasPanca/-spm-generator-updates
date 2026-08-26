@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "releasedAt": "2026-08-26",
-  "notes": "Tambah fitur SK Tim BOSP, Data Siswa, dan Daftar Siswa Miskin",
+  "notes": "Tambah fitur Stock Opname (XLSX per kategori) dan Cash Opname (Berita Acara Pemeriksaan Kas)",
   "requiresNpmInstall": false
 }
